@@ -7,7 +7,6 @@ The main thing here is to run it
   2.link appears in termianl .
   3.Click on link.
   
- This link is also  given in assignment 1 where the section is created for user to post their doubts.
- Also I thanks IIT bombay for such wonderful assignment.
+
  Atharv Kshirsagar
  210050025
